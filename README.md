@@ -6,3 +6,6 @@ This website contains the membership subscription model of
 - Silver membership for 6 months
 
 This website has an integrated eSewa payment gateway and is still under-developed for mobile and tablet device responsiveness.
+
+You can still access the website at the right side where the URL is given or access at
+https://hamrofitness.kesug.com
